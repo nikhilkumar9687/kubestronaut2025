@@ -19,7 +19,9 @@ KCNA/
 ├── 02_Containers/
 │   ├── notes.md
 │   └── Dockerfile
-└── ...
+└── 03_K8_Arch
+|   ├── notes.md
+│   └── Yaml
 ```
 
 ## 🛠️ How to Use
