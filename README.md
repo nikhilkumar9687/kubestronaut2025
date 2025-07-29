@@ -8,10 +8,10 @@ Welcome to my Kubestronaut Prep Repository! 🚀
 ```
 kubestronaut-prep/
 ├── KCNA/ # Kubernetes and Cloud Native Associate
-│ ├── 01_Cluster_Basics/
+│ ├── 1_K8Fundamentals/
 │ │ ├── notes.md
 │ │ └── example.yaml
-│ ├── 02_Containers/
+│ ├── 2_K8Resources/
 │ │ ├── notes.md
 │ │ └── Dockerfile
 │ └── ...
